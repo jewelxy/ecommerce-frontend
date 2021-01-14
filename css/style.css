@@ -1,0 +1,47 @@
+.imagesLogo a img {
+	width: 62%;
+}
+.carsualTitle button {
+	border: none;
+	padding: 12px;
+	width: 148px;
+	font-size: 20px;
+	background-color: #96AF31;
+	border-radius: 14px;
+}
+.cartFooterButton button{
+    border: none;
+	padding: 8px;
+	width: 148px;
+    font-size: 20px;
+    color: #ffffff;
+	background-color: #96AF31;
+	border-radius: 7px;
+}
+.cartFooterButton{
+    border-top: none;
+    background-color: #ffffff;
+}
+.card-Product{
+    border: none;
+}
+.card-Product img {
+	width: 83%;
+	margin: 0 auto;
+	padding: 12%;
+	height: 56%;
+	background-color: lightgray;
+	border-radius: 14px;
+}
+.archive-logo {
+	width: 24%;
+	padding: 5% 3%;
+}
+.card-icon-border{
+	border: none;
+	border-radius: 17px;
+}
+.subscribe  input[type="text"]:focus {
+	background-color: #dee947af;
+	border: none;
+  }
